@@ -1,0 +1,22 @@
+{
+  "name": "medium_all-npm-packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanyang1/MEDIUM_all-npm-packages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanyang1/MEDIUM_all-npm-packages/issues"
+  },
+  "homepage": "https://github.com/evanyang1/MEDIUM_all-npm-packages#readme",
+  "dependencies": {
+    "all-the-package-names": "^1.3905.0"
+  }
+}
